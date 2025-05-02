@@ -4,9 +4,9 @@ SECTION = "console/utils"
 LICENSE = "Apache-2.0"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=99e7c83e5e6f31c2cbb811e186972945"
 
-SRC_URI = "git://github.com/Anjalimkuriakose/tr69hostif.git;protocol=https;branch=develop;rev=37bb72cbd5e03f31c6177bbff100d697074bba3d"
+SRC_URI = "git://github.com/Anjalimkuriakose/tr69hostif.git;protocol=https;branch=develop;rev=86b5a29ff96807d265b1358f7019ad4ff5a7345a"
 SRC_URI[sha256sum] = "4fbaaaabc1b501d4999d2aa19fa93ed5a5e1017813fdd9be7ca75c597823112a"
-SRCREV = "37bb72cbd5e03f31c6177bbff100d697074bba3d"
+SRCREV = "86b5a29ff96807d265b1358f7019ad4ff5a7345a"
 PACKAGE_ARCH = "${MIDDLEWARE_ARCH}"
 S = "${WORKDIR}/git"
 
